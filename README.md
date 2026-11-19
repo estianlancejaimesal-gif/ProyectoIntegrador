@@ -1,5 +1,5 @@
 1. Titulo del proyecto
-# Sistema Web de gestión administrativa para el Hogar San José
+# Sistema de gestión del Hogar San José
 2. Integrantes del proyecto
 Ian Lance Jaimes Albornoz 
 Diego Cristobal Cury Guarayo
